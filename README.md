@@ -2,16 +2,11 @@
 
 This project focuses on cleaning, transforming, and preparing U.S. Census state-level demographic data for analysis. The dataset includes population, income, gender, and race-related information across U.S. states and territories.
 
+
 ## Project Overview
 
-The raw CSV files contain inconsistent formatting, missing values, and columns that need preprocessing before analysis.  
-This project demonstrates how to:
+This project focuses on cleaning and transforming U.S. Census state-level demographic data to make it suitable for analysis. The dataset was processed to handle missing values, standardize formats, and extract structured information from raw columns such as income and gender population data.
 
-- combine multiple CSV files into a single dataset
-- clean and standardize numeric and percentage-based columns
-- extract meaningful values from mixed-format fields
-- handle missing data carefully
-- prepare the dataset for visualization and statistical exploration
 
 ## Dataset
 
@@ -29,6 +24,7 @@ The dataset includes the following fields:
 - `GenderPop`
 - `Men Count`
 - `Women Count`
+
 
 ## Data Processing
 
